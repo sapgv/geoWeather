@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ListViewController.update():ListViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "WeatherPresenter.didFetchWeather(_:):WeatherPresenter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "container">
+            </PersistentString>
+            <PersistentString
+               value = "view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in variable initialization expression of AppDelegate.container:AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "r.resolve(WeatherPresenter.self)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.application(_:didFinishLaunchingWithOptions:):AppDelegate.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "window.rootViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in WeatherInteractor.retrieveWeather(_:_:):WeatherInteractor.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ListViewController.configureView():ListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationItem.backBarButtonItem?.title">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ListRouter.presentListInterfaceForLocation(_:fromViewController:):ListRouter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in WeatherInteractor.retrieveWeather(_:):WeatherInteractor.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.output">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WeatherRouter.presentListInterfaceForLocation(_:):WeatherRouter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ListDataManager.listDataFromCoreStoreEntries(_:):ListDataManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "entry.lat">
+            </PersistentString>
+            <PersistentString
+               value = "entry.name">
+            </PersistentString>
+            <PersistentString
+               value = "entry.lon">
+            </PersistentString>
+            <PersistentString
+               value = "entry.date!">
+            </PersistentString>
+            <PersistentString
+               value = "entry.temp">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WeatherPresenter.didFetchWeather(_:_:):WeatherPresenter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "WeatherViewController.viewDidLoad():WeatherViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "output">
+            </PersistentString>
+            <PersistentString
+               value = "locationService">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LocationService.startLocalService():LocationService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locationManager.delegate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ListModuleInitializer.awakeFromNib():ListInitializer.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,35 @@
+### Headers settings
+company: sapgv
+
+### Xcode project settings
+project_name: geoWeather
+xcodeproj_path: geoWeather.xcodeproj
+
+### Code generation settings section
+# The main project target name
+project_target: geoWeather
+
+# The file path for new modules
+project_file_path: geoWeather/Modules
+
+# The Xcode group path to new modules
+project_group_path: Modules
+
+### Tests generation settings section
+# The tests target name
+test_target: geoWeather
+
+# The file path for new tests
+test_file_path: Tests
+
+# The Xcode group path to new tests
+test_group_path: Tests
+
+### Dependencies settings section
+podfile_path: yes
+
+### Templates
+templates:
+#- {name: local_template_name, local: 'absolute/file/path'}
+#- {name: remote_template_name, git: 'https://github.com/igrekde/remote_template'}
+- {name: swifty_viper}
